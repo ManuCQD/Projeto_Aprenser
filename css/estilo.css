@@ -1,0 +1,8 @@
+html{
+    font-size: 62.5%;
+}
+
+.container { /*centralizar conteiners*/
+    max-width: 127.6rem;
+    margin: auto;
+}
